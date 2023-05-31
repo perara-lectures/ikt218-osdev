@@ -1,0 +1,8 @@
+/home/knut/ikt218-osdev/69/CMakeFiles/uia-os-module-stdlib.dir
+/home/knut/ikt218-osdev/69/CMakeFiles/uia-os-boot.dir
+/home/knut/ikt218-osdev/69/CMakeFiles/uia-os-kernel.dir
+/home/knut/ikt218-osdev/69/CMakeFiles/edit_cache.dir
+/home/knut/ikt218-osdev/69/CMakeFiles/rebuild_cache.dir
+/home/knut/ikt218-osdev/69/grub/CMakeFiles/uia-os-create-image.dir
+/home/knut/ikt218-osdev/69/grub/CMakeFiles/edit_cache.dir
+/home/knut/ikt218-osdev/69/grub/CMakeFiles/rebuild_cache.dir
