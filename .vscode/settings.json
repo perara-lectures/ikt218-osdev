@@ -1,11 +1,8 @@
 {
-    "cmake.buildDirectory": "${workspaceFolder}/build_per-arne",
-    "cmake.sourceDirectory": "${workspaceFolder}/group_per-arne",
+    "cmake.buildDirectory": "${workspaceFolder}/build_panic_team",
+    "cmake.sourceDirectory": "/home/yunus/IKT218-osdev/panic_team",
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
-        "cstddef": "cpp",
-        "*.tcc": "cpp",
-        "*.ipp": "cpp"
+        "cstddef": "cpp"
     }
-
 }
