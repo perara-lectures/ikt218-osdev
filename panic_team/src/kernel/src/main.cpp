@@ -7,6 +7,7 @@
 #include "system.h"
 #include "../memory/memory.h"
 #include "../screen/screen.h"
+#include "../screen/screen_2.h"
 #include "monitor.h"
 #include <stdbool.h>
 #include <stddef.h>
@@ -146,7 +147,7 @@ void kernel_main()
     // Create operating system object
 
     // Create some interrupt handlers for
-    // monitor_initialize();
+    screen_initialize();
 
     // monitor_write(text, l);
     //  init_kernel_memory(&end);
@@ -219,4 +220,3 @@ void kernel_main()
                                        { auto *os = (OperatingSystem *)context; },
                                        &os);
 }
-s
